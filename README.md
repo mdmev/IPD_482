@@ -7,7 +7,7 @@ Este repositorio contiene los códigos fuente relacionados con la **Guía 1 de I
 Para importar y configurar el entorno Conda necesario para correr los códigos, puedes utilizar el siguiente comando:
 
 ```bash
-conda env create -f archivo.yml
+conda env create -f robotica.yml
 ```
 Además, se ha incluido un enlace al video de YouTube que complementa el material de la guía. Puedes acceder al video mediante el siguiente enlace:
 https://youtu.be/ujTxsAxEbOk
